@@ -1,0 +1,10 @@
+/* Loading Screen */
+.background {
+    height: 100vh;
+}
+
+.icon {
+    position: relative;
+    top: 45%;
+    left: 45%;
+}

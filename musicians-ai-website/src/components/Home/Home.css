@@ -1,0 +1,16 @@
+.backgroundColor {
+    background-color: #C8CAFA;
+}
+
+/* Tooltip */
+.toolTip {
+    background-color: #FFF;
+    border: #BBB 1px solid;
+    padding: 1em;
+}
+
+.tooltipContent {
+    background-color: #FFF;
+    border: #BBB 1px solid;
+    padding: 1em 1em 0 1em;
+}
